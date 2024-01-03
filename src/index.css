@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    /* background-image: url('https://media.istockphoto.com/id/1328182974/video/4k-global-earth-map-rotating-digital-world-breaking-news-studio-loop-background.jpg?s=640x640&k=20&c=rSa1fIMB4jYYUmL_E7RIZy_UXNmf1DJEqz-9QZ7JL0M=');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment:fixed; */
+}
+
+.navb{
+  display: flex;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+  background-color: rgb(202, 11, 21);
+  height: 2vw;
+  padding: 20px;
+  /* margin: 0 2px 0 2px; */
+  align-items: center;
+}
+.mnub{
+  background-color:rgb(202, 11, 21);
+  border:0px;
+  border-radius: 5px;
+}
+.mnub:hover{
+  background-color: rgb(244, 54, 63);
+}
+.icon a{
+  position: relative;
+  text-decoration: none;
+  left: 42vw;
+  font-size: 30px;
+  font-family:  'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: white;
+}
+
+.srch{
+  position: relative;
+  left: 66vw;
+  height: 30px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.333);
+}
+
+
+.srb{
+  position: relative;
+  left: 66vw;
+  height: 30px;
+  border-radius: 99px;
+  margin-top: 2px;
+  padding-top: 0px;
+  color: rgb(0, 0, 0);
+  border-color: rgb(19, 19, 19);
+
+}
+.disablSrch{
+  visibility:hidden;
+}
+
+.cntr{
+  display: flex;
+}
+.mnuc{
+  width: 13vw;
+  /* width: 0vw; */
+  position: sticky;
+  top: 50px;
+  padding-top: 10px;
+  height: 100vh;
+  background-color: rgb(255, 255, 255);
+  transition: 250ms;
+  box-shadow: 0px 5px 17px -2px rgb(61, 61, 61);
+}
+.cmnuc{
+  visibility: hidden;
+  background-color: rgb(255, 36, 47);
+  width: 1px;
+}
+.itm{
+  display: flex;
+  /* justify-content:flex-start; */
+  flex: 10vw;
+  margin: 2px ;
+   /* background-color: rgb(255, 255, 195); */
+   border: 1px solid ;
+   border-radius: 4px;
+   /* padding: 6px 0 6px 0 ; */
+  }
+  .itm a{
+    text-decoration: none;
+    color: black;
+    /* transition: 850ms; */
+  }
+  .itm:hover{
+    background-color: rgb(255, 36, 47);
+  }
+  .ita{
+  padding: 6px 0 6px 60px ;
+  /* background-color: brown; */
+  width: 13vw;
+}
+.active{
+  background-color: rgb(255, 36, 47);
+}
+
+.hdin{
+padding:10px 0 0 2vw ;
+  font-size: 20px;
+  font-family: monospace;
+  font-weight: 600;
+  height: 50px;
+  position: sticky;
+  top: 40px;
+  z-index: 2;
+  background-color: white;
+  box-shadow: 0px 0px 15px -3px rgb(99, 99, 99);
+
+}
+.nwzbox{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding:5px 0 0 20px ;
+  /* background-color: palevioletred; */
+
+}
+.nwzbox a{
+  display: flex;
+  /* background-color: blue; */
+  text-decoration: none;
+  width: 250px;
+  margin:20px;
+}
+.nwzbox a .card:hover{
+  box-shadow: 0px 0px 15px -3px rgb(99, 99, 99);
+/* background-color: rgb(221, 221, 221); */
+}
+.card img{
+  width: 100%;
+  /* height: 15vw; */
+}
+.lding {
+  border: 5px solid #c6c4c4; /* Light grey border */
+  border-top: 5px solid rgb(255, 36, 47); /* Blue top border (the spinning part) */
+  border-radius: 80%; /* Make it a circle */
+  width: 50px; /* Set the size */
+  height: 50px;
+  /* background-color: black; */
+position: relative;
+top: 20vw;
+left: 35vw;
+  animation: spin 1s linear infinite; 
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.Norslts{
+  
+  /* position: relative;
+  top: 15vw;
+  left: 25vw; */
+  /* background-color: rgb(255, 255, 153); */
+  height:85vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}

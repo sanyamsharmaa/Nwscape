@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 1000,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Sport.cz",
+            "title": "MS hokej U20 | Derby na úvod šampionátu. Na Slováky vlétneme, slibují čeští mladíci - Sport.cz",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMic2h0dHBzOi8vd3d3LnNwb3J0LmN6L2NsYW5lay9ob2tlai11MjAtbXMtZGVyYnktbmEtdXZvZC1zYW1waW9uYXR1LW5hLXNsb3Zha3ktdmxldG5lbWUtc2xpYnVqaS1jZXN0aS1tbGFkaWNpLTUwMTg5MDjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:40:32Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Edaily.co.kr"
+            },
+            "author": "이데일리",
+            "title": "재계약 후 황희찬 자세에 감명 받은 오닐, “모두에게 감사하다고 찾아왔더라” - 이데일리",
+            "description": null,
+            "url": "https://www.edaily.co.kr/news/read?newsId=01289046635842456&amp;mediaCodeNo=258",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:36:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Digital Trends",
+            "title": "SpaceX gears up for 5th try at launching Falcon Heavy rocket - Digital Trends",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTWh0dHBzOi8vd3d3LmRpZ2l0YWx0cmVuZHMuY29tL3NwYWNlL3NwYWNleC01dGgtdHJ5LWF0LWxhdW5jaGluZy1mYWxjb24taGVhdnkv0gFRaHR0cHM6Ly93d3cuZGlnaXRhbHRyZW5kcy5jb20vc3BhY2Uvc3BhY2V4LTV0aC10cnktYXQtbGF1bmNoaW5nLWZhbGNvbi1oZWF2eS8_YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:35:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Devdiscourse"
+            },
+            "author": "Devdiscourse News Desk",
+            "title": "AstroSat detects X-ray bursts from new neutron star with magnetar - Devdiscourse",
+            "description": "Magnetars are neutron stars having an ultrahigh magnetic field that are much stronger than the terrestrial magnetic field.",
+            "url": "https://www.devdiscourse.com/article/science-environment/2757669-astrosat-detects-x-ray-bursts-from-new-neutron-star-with-magnetar",
+            "urlToImage": "https://www.devdiscourse.com/remote.axd?https://devdiscourse.blob.core.windows.net/devnews/21_03_2021_18_06_03_7399901.jpg?width=920&format=jpeg",
+            "publishedAt": "2023-12-26T06:35:40Z",
+            "content": "AstroSat, India’s first multi-wavelength space-based observatory, has detected bright sub-second X-ray bursts from a new and unique neutron star with ultrahigh magnetic field (magnetar), which can he… [+2828 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ynet ידיעות אחרונות",
+            "title": "הרופא החרדי שמשרת בעזה נפגש עם בתו שלוקה בתסמונת דאון - ynet ידיעות אחרונות",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiL2h0dHBzOi8vd3d3LnluZXQuY28uaWwvaGVhbHRoL2FydGljbGUvc2tmbjJpdWRw0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:33:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TVNET",
+            "title": "Otrdien snigs un līs; gaidāmi pat +4 grādi; vietām braukšana ir īpaši apgrūtināta - TVNET",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vY2lrbG9ucy50dm5ldC5sdi83OTI1OTQzL290cmRpZW4tc25pZ3MtdW4tbGlzLWdhaWRhbWktcGF0LTQtZ3JhZGktdmlldGFtLWJyYXVrc2FuYS1pci1pcGFzaS1hcGdydXRpbmF0YdIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:31:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Lsm.lv",
+            "title": "Porziņģis rezultatīvākais «Celtics» rindās komandas uzvarā pār «Lakers» NBA spēlē - Lsm.lv",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5sc20ubHYvcmFrc3RzL3Nwb3J0cy9iYXNrZXRib2xzLzI2LjEyLjIwMjMtcG9yemluZ2lzLXJlenVsdGF0aXZha2Fpcy1jZWx0aWNzLXJpbmRhcy1rb21hbmRhcy11enZhcmEtcGFyLWxha2Vycy1uYmEtc3BlbGUuYTUzNjY4MS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:29:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Glocalist",
+            "title": "Automotive Carbon Fiber-Markt größe, Markt anteil, Umsatzwachstum, Segmente, Expansion und Chancen im Jahr 2023 und 2032 – glocalist - Glocalist",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilQFodHRwczovL2dsb2NhbGlzdC5wcmVzcy9hdXRvbW90aXZlLWNhcmJvbi1maWJlci1tYXJrdC1ncm9lc3NlLW1hcmt0LWFudGVpbC11bXNhdHp3YWNoc3R1bS1zZWdtZW50ZS1leHBhbnNpb24tdW5kLWNoYW5jZW4taW0tamFoci0yMDIzLXVuZC0yMDMyLzE5NTYzL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:28:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deccan Herald"
+            },
+            "author": "DH Web Desk",
+            "title": "Humane to begin ChatGPT-powered Ai Pin delivery in March 2024 - Deccan Herald",
+            "description": null,
+            "url": "https://www.deccanherald.com/technology/gadgets/humane-to-begin-chatgpt-powered-ai-pin-delivery-in-march-2024-2825159",
+            "urlToImage": "https://images.deccanherald.com/deccanherald%2F2023-12%2F7c417251-f0d8-4eba-8b98-d6248b81e67b%2FHumane_AI_Pin_CS_1.jpg?rect=0%2C0%2C937%2C492&w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop",
+            "publishedAt": "2023-12-26T06:28:32Z",
+            "content": "In November, Sam Altman-backed Humane launched an innovative Artificial Intelligence(AI)-based gadget Ai Pin with ChatGPT support in the US.\r\nNow, the company has announced that it has received an ov… [+1101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cctv.com"
+            },
+            "author": "宿党辉",
+            "title": "又一起福岛核事故避难者诉讼案宣判东京高等法院否认日本政府赔偿责任 - 新闻频道",
+            "description": "据共同社消息，针对在福岛第一核电站事故中从福岛县前往东京等地避难的数十名原告向日本政府和东京电力公司索赔的一起诉讼，东京高等法院当地时间26日作出判决，撤销了2018年东京地方法院一审判决的部分内容，仅判决东电公司需支付赔偿，否定了日本政府的责任。",
+            "url": "https://news.cctv.com/2023/12/26/ARTIKuMmpvhkz9YnAoa6Vrmw231226.shtml",
+            "urlToImage": "//p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1502157896010276/newslog200.jpg",
+            "publishedAt": "2023-12-26T06:27:45Z",
+            "content": "262018\r\n20115900\r\n3020226"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hankyung.com"
+            },
+            "author": "구은서",
+            "title": "신작 낸 '사랑의 이해' 이혁진…\"인간 욕망 증류하면 사랑만 남을 것\" - 한국경제",
+            "description": "신작 낸 '사랑의 이해' 이혁진…\"인간 욕망 증류하면 사랑만 남을 것\", 구은서 기자, 문화스포츠",
+            "url": "https://www.hankyung.com/article/202312225123i",
+            "urlToImage": "https://img.hankyung.com/photo/202312/01.35416918.1.jpg",
+            "publishedAt": "2023-12-26T06:27:32Z",
+            "content": "- &lt;&gt;\r\n  1980 , . (, 1948~ ) &lt; &gt;, (, 1947~2022) &lt;&gt;. 1979 , 1 . 1974 '' &lt;()&gt; . &lt;&gt; “ ” ( ) . 1978 1 , &lt;&gt;. '' . 1979 &lt;&gt;.1981 1980 .   , 1979 11 10 1 &lt;&gt; 125… [+624 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Poskota",
+            "title": "Nonton Video di Yandex Blue Yandex Browser Jepang Yandex Viral Anti Blokir, Cek di Sini Khusus Pengguna Android dan iOS - poskota.co.id - Poskota",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilwFodHRwczovL3Bvc2tvdGEuY28uaWQvMjAyMy8xMi8yNi9ub250b24tdmlkZW8tZGkteWFuZGV4LWJsdWUteWFuZGV4LWJyb3dzZXItamVwYW5nLXlhbmRleC12aXJhbC1hbnRpLWJsb2tpci1jZWstZGktc2luaS1raHVzdXMtcGVuZ2d1bmEtYW5kcm9pZC1kYW4taW9z0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:27:15Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "LA.LV ",
+            "title": "“33 gadu vecumā uzzināju, ka pareizi ir “arīdzan” nevis “arīdzen””. Bāriņi nav naktslokāli. Tūgadiņ – tāgadiņ. Kādas novēlotas atklāsmes ir skārušas Tevi? - LA.LV ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMimwFodHRwczovL3d3dy5sYS5sdi8zMy1nYWR1LXZlY3VtYS11enppbmFqdS1rYS1wYXJlaXppLWlyLWFyaWR6YW4tbmV2aXMtYXJpZHplbi1iYXJpbmktbmF2LW5ha3RzbG9rYWxpLWthZGFzLW5vdmVsb3Rhcy11bi1zbWlla2xpZ2FzLWF0a2xhc21lcy1pci1iaWp1c2FzLXRldtIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:26:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "BS Tech",
+            "title": "Xiaomi to launch Redmi Note 13 5G series on Jan 4: Expected specs and more - Business Standard",
+            "description": "Ahead of the launch, Xiaomi has unveiled some of the features of its upcoming Redmi Note 13 5G series smartphones. Below are the details",
+            "url": "https://www.business-standard.com/technology/tech-news/xiaomi-to-launch-redmi-note-13-5g-series-on-jan-4-expected-specs-and-more-123122600245_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-12/26/full/1703571633-1371.jpg",
+            "publishedAt": "2023-12-26T06:25:58Z",
+            "content": "Ahead of the launch, Xiaomi has unveiled some of the features of its upcoming Redmi Note 13 5G series smartphones. Below are the details\r\nPhoto: Redmi India\r\nBS TechNew Delhi\r\nXiaomi is set to launch… [+3354 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hani.co.kr"
+            },
+            "author": null,
+            "title": "중대형 승용차 러시아에 못 판다…정부, 대러 수출통제 품목 확대 - 한겨레",
+            "description": "굴착기·배터리 등 1159개 품목…“국제 공조 맞춰 강화”",
+            "url": "https://www.hani.co.kr/arti/economy/car/1121827.html",
+            "urlToImage": "https://flexible.img.hani.co.kr/flexible/normal/640/385/imgdb/original/2023/1226/20231226501940.jpg",
+            "publishedAt": "2023-12-26T06:22:35Z",
+            "content": "a').text() + '_' + $(this).find('a').text());\"&gt;\r\n, \r\n2023-12-26 15:222023-12-26 15:30"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Lsm.lv",
+            "title": "Esam kara miglā, kad viss šķiet tikai melns vai balts. Saruna ar sociālantropoloģi Ievu Raubiško - Lsm.lv",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMioQFodHRwczovL3d3dy5sc20ubHYvcmFrc3RzL2R6aXZlLS1zdGlscy9zYXJ1bmFzLzI2LjEyLjIwMjMtZXNhbS1rYXJhLW1pZ2xhLWthZC12aXNzLXNraWV0LXRpa2FpLW1lbG5zLXZhaS1iYWx0cy1zYXJ1bmEtYXItc29jaWFsYW50cm9wb2xvZ2ktaWV2dS1yYXViaXNrby5hNTM2Mzc2L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:22:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "صحيفة المناطق",
+            "title": "ميزة الحالات في \"واتساب ويب\" - صحيفة المناطق",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMingFodHRwczovL2FsbW5hdGlxLm5ldC8lRDklODUlRDklOEElRDglQjIlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUFEJUQ4JUE3JUQ5JTg0JUQ4JUE3JUQ4JUFBLSVEOSU4MSVEOSU4QS0lRDklODglRDglQTclRDglQUElRDglQjMlRDglQTclRDglQTgtJUQ5JTg4JUQ5JThBJUQ4JUE4L9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:21:45Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "LA.LV ",
+            "title": "Terorisma draudu dēļ Vācijā un Austrijā policija Vecgada vakarā strādās pastiprinātā režīmā; Berlīnē izvietos 2500 policistu - LA.LV ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijQFodHRwczovL3d3dy5sYS5sdi90ZXJvcmlzbWEtZHJhdWR1LWRlbC12YWNpamEtdW4tYXVzdHJpamEtcG9saWNpamEtdmVjZ2FkYS12YWthcmEtc3RyYWRhcy1wYXN0aXByaW5hdGEtcmV6aW1hLWJlcmxpbmUtaXp2aWV0b3MtMjUwMC1wb2xpY2lzdHXSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:20:59Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "EL PAÍS",
+            "title": "Guerra entre Israel y Gaza, en directo - EL PAÍS",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vZWxwYWlzLmNvbS9pbnRlcm5hY2lvbmFsLzIwMjMtMTItMjYvZ3VlcnJhLWVudHJlLWlzcmFlbC15LWdhemEtZW4tZGlyZWN0by5odG1s0gFlaHR0cHM6Ly9lbHBhaXMuY29tL2ludGVybmFjaW9uYWwvMjAyMy0xMi0yNi9ndWVycmEtZW50cmUtaXNyYWVsLXktZ2F6YS1lbi1kaXJlY3RvLmh0bWw_b3V0cHV0VHlwZT1hbXA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-12-26T06:19:55Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sedaily.com"
+            },
+            "author": "현혜선",
+            "title": "박나래, 수천만 원 추징금 냈다…'해석 차이, 악의적 탈세 아냐'[공식] - 서울경제 - 서울경제신문",
+            "description": "MBC‘나 혼자 산다’ 등 다양한 예능에서 활약하고 있는 방송인 박나래가 특별세무조사를 받고 추징금을 부과 받았다. 박나래 측...",
+            "url": "https://www.sedaily.com/NewsView/29YNU8ZNC0",
+            "urlToImage": "https://newsimg.sedaily.com/2023/12/26/29YNU8ZNC0_1.jpg",
+            "publishedAt": "2023-12-26T06:19:24Z",
+            "content": ""
+        }
+    ]
+}
