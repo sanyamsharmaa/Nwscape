@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nwscape/static/css/main.aa69c3d2.css",
+    "main.js": "/Nwscape/static/js/main.2176b9a5.js",
+    "static/js/787.bc14e9bf.chunk.js": "/Nwscape/static/js/787.bc14e9bf.chunk.js",
+    "index.html": "/Nwscape/index.html",
+    "main.aa69c3d2.css.map": "/Nwscape/static/css/main.aa69c3d2.css.map",
+    "main.2176b9a5.js.map": "/Nwscape/static/js/main.2176b9a5.js.map",
+    "787.bc14e9bf.chunk.js.map": "/Nwscape/static/js/787.bc14e9bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa69c3d2.css",
+    "static/js/main.2176b9a5.js"
+  ]
+}
